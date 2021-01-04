@@ -3,6 +3,10 @@
 On my daily work I'm constatly hitting accross one or another library or technique - all of libraries have their own advantages,
 weaknesses and side effects. I've decided to collect here some of libraries.
 
+## Programming Languages
+
+  * [C++](https://github.com/tapika/bestlibs/tree/main/cpp)
+
 ## Game Engines
 
 *Libraries dealing with game development*
