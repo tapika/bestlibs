@@ -20,6 +20,10 @@ weaknesses and side effects. I've decided to collect here some of libraries.
   1. [Chocolatey, C#](https://github.com/chocolatey/choco) [MIT] - Based on nuget client/server architecture chocolatey deals with software installation, upgrade, uninstallation
   2. [Microsoft MSIX packaging, C++](https://github.com/microsoft/msix-packaging) [MIT] - Package management primarily targetted for Windows.
 
+## 3rd Party Library Building
+
+  * [Microsoft vcpkg](https://github.com/microsoft/vcpkg) [MIT] tool for building various 3rd party packages for Windows.
+
 # Various link collections:
 
 * [Awesome C++ - various C++ library link collection](https://github.com/fffaraz/awesome-cpp) (This git was initially inspired by Awesome C++ link collection)
