@@ -12,7 +12,7 @@ weaknesses and side effects. I've decided to collect here some of libraries.
 
 
 
-# Referenced libraries
+# Various link collections:
 
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+* [Awesome C++ - various C++ library link collection](https://github.com/fffaraz/awesome-cpp) (This git was initially inspired by Awesome C++ link collection)
 
