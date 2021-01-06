@@ -16,6 +16,11 @@ weaknesses and side effects. I've decided to collect here some of libraries.
   * Articles:
     * [Is Making Advanced GUI Applications with Godot the Future?](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 
+## Logging
+
+* (In Russian: C++, Сравнение библиотек логирования, 2016)[https://habr.com/ru/post/313686/]
+* (C#, Benchmarking 5 popular .NET logging libraries, 2016)[https://www.loggly.com/blog/benchmarking-5-popular-net-logging-libraries/]
+
 ## Testing
 
 *Libraries dealing with testing*
