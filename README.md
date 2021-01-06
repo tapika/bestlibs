@@ -33,7 +33,7 @@ weaknesses and side effects. I've decided to collect here some of libraries.
 
 ## 3rd Party Library Building
 
-  * [Microsoft vcpkg, C++/cmake](https://github.com/microsoft/vcpkg) [MIT] tool for building various 3rd party packages for Windows.
+  * [Microsoft vcpkg, C++/cmake](https://github.com/microsoft/vcpkg) [MIT] tool for building various 3rd party packages for Windows. Even thus tool focuses on building 3rd party libraries, patches for 3rd-party libraries are located within vcpkg repository. vcpkg is not targetting to become industry standard installation system, which leaves it on build tool level, like msbuild or similar.
 
 # Various link collections:
 
