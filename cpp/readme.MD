@@ -2,6 +2,8 @@
 
 Here are listed various C++ improvements ideas / concepts / C++ standartization techiques.
 
+[C++ Standards Committee](http://www.open-std.org/jtc1/sc22/wg21/) C++ improvements list - aiming for C++ improvements.
+
 ## Project generation tools
 
 *Libraries which try to make C++ development portable accross different OS's, they try to generate project files suitable for different build systems, OS's, IDE's*
