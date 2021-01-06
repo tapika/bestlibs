@@ -15,7 +15,7 @@ a standard because it's built-in into Visual studio and Qt. cmake dialect is bit
 
 *There are various attempts to make C++ scriptable*
 
-1. [cling interactive C++ scripting](https://github.com/root-project/cling). Based on older LLVM/clang compiler (5.0) cling is command line tool for compiling and executing C++ directly.
+1. [cling interactive C++ scripting](https://github.com/root-project/cling) [MIT]. Based on older LLVM/clang compiler (5.0) cling is command line tool for compiling and executing C++ directly.
 
   * Articles/Blogs:
     * [Interactive C++ with Cling](https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/)
