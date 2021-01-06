@@ -4,6 +4,8 @@ Here are listed various C++ improvements ideas / concepts / C++ standartization 
 
 ## Project generation tools
 
+*Libraries which try to make C++ development portable accross different OS's, they try to generate project files suitable for different build systems, OS's, IDE's*
+
 1. [cmake web page](https://cmake.org/). Custom cmake dialect, which was originally made to help C++ to simplify project generation - but nowadays is more or less 
 a standard because it's built-in into Visual studio and Qt. cmake dialect is bit difficult to learn and maintain.
 
