@@ -17,17 +17,19 @@ a standard because it's built-in into Visual studio and Qt. cmake dialect is bit
 
 *There are various attempts to make C++ scriptable*
 
-1. [cling interactive C++ scripting](https://github.com/root-project/cling) [MIT]. Based on older LLVM/clang compiler (5.0) cling is command line tool for compiling and executing C++ directly.
+1. [cling interactive C++ scripting](https://github.com/root-project/cling) [MIT].
 
   * Articles/Blogs:
     * [Interactive C++ with Cling](https://blog.llvm.org/posts/2020-11-30-interactive-cpp-with-cling/)
+
+Based on older LLVM/clang compiler (5.0) cling is command line tool for compiling and executing C++ directly.
 
 2. Just in time compilation
 
 [Clang with just-in-time (JIT) compilation extensions](https://github.com/hfinkel/llvm-project-cxxjit) Clang with JIT extensions.
 
   * Articles:
-    * [Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak - CppCon 2020](https://www.youtube.com/watch?v=I3ov8HcdVKw&)
+    * [Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak - CppCon 2020](https://www.youtube.com/watch?v=I3ov8HcdVKw)
     * [P1609R1 - C++ Should Support Just-in-Time Compilation](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1609r1.html) Proposal to make this as a C++ standard.
 
 Experimental proposal of enabling JIT on C++ compiler - targetted for linux and clang compiler.
