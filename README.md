@@ -16,6 +16,13 @@ weaknesses and side effects. I've decided to collect here some of libraries.
   * Articles:
     * [Is Making Advanced GUI Applications with Godot the Future?](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 
+## Testing
+
+*Libraries dealing with testing*
+
+  1. [xunit, C#](https://xunit.net) [MIT] - Targetting for C# unit testing. Unlike built-in Visual studio platform support `[Theory]` kind of attribute, which
+  allows to specify custom input arguments to each test. Test host application is executed in same process, unlike Visual studio platform.
+
 
 ## Installation
 
