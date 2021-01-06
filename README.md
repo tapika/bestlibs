@@ -20,6 +20,8 @@ weaknesses and side effects. I've decided to collect here some of libraries.
 
 *Various file formats - serialization / deserialization*
 
+[The state of config file formats: XML vs. YAML vs. JSON vs. HCL](https://octopus.com/blog/state-of-config-file-formats)
+
 ### [Json](https://en.wikipedia.org/wiki/JSON)
 
 Json originated from JavaScript Object Notation, which came originally from Javascript. Json is standartized to some level, json comments are not necessarily taken into json standard - it depends on json parsing library itself. If we need to interoperate between programming languages (for example c++ and javascript) - then such interoperability file format might be handy. 3rd-party remote procedure call libraries, like Google protobuf, might be capable or direct serialization to json without separate json library.
