@@ -54,6 +54,7 @@ Json originated from JavaScript Object Notation, which came originally from Java
 ## 3rd Party Library Building
 
   * [Microsoft vcpkg, C++/cmake](https://github.com/microsoft/vcpkg) [MIT] tool for building various 3rd party packages for Windows. Even thus tool focuses on building 3rd party libraries, patches for 3rd-party libraries are located within vcpkg repository. vcpkg is not targetting to become industry standard installation system, which leaves it on build tool level, like msbuild or similar.
+  * [ninja](https://ninja-build.org/) Ninja focuses on building, mainly C++ components. Already built-in in Visual studio and moreover make project generation systems (e.g. cmake) produce ninja file format as output file. Much faster compared to msbuild.
 
 # Various link collections:
 
