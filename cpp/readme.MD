@@ -24,9 +24,7 @@ a standard because it's built-in into Visual studio and Qt. cmake dialect is bit
 
 Based on older LLVM/clang compiler (5.0) cling is command line tool for compiling and executing C++ directly.
 
-2. Just in time compilation
-
-[Clang with just-in-time (JIT) compilation extensions](https://github.com/hfinkel/llvm-project-cxxjit) Clang with JIT extensions.
+2. [Clang with just-in-time (JIT) compilation extensions](https://github.com/hfinkel/llvm-project-cxxjit) Clang with JIT extensions.
 
   * Articles:
     * [Just-in-Time Compilation: The Next Big Thing? - Ben Deane & Kris Jusiak - CppCon 2020](https://www.youtube.com/watch?v=I3ov8HcdVKw)
