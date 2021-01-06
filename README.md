@@ -16,6 +16,17 @@ weaknesses and side effects. I've decided to collect here some of libraries.
   * Articles:
     * [Is Making Advanced GUI Applications with Godot the Future?](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b)
 
+## File formats
+
+*Various file formats - serialization / deserialization*
+
+## [Json](https://en.wikipedia.org/wiki/JSON)
+
+Json originated from JavaScript Object Notation, which came originally from Javascript. Json is standartized to some level, json comments are not necessarily taken into json standard - it depends on json parsing library itself. If we need to interoperate between programming languages (for example c++ and javascript) - then such interoperability file format might be handy. 3rd-party remote procedure call libraries, like Google protobuf, might be capable or direct serialization to json without separate json library.
+
+* [We released simdjson 0.3: the fastest JSON parser in the world is even better](https://lemire.me/blog/2020/03/31/we-released-simdjson-0-3-the-fastest-json-parser-in-the-world-is-even-better/)
+  * [simdjson, C++, git](https://github.com/simdjson/simdjson) [Apache]
+
 ## Logging
 
 * [In Russian: C++, Сравнение библиотек логирования, 2016](https://habr.com/ru/post/313686/)
