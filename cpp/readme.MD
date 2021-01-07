@@ -32,5 +32,7 @@ Based on older LLVM/clang compiler (5.0) cling is command line tool for compilin
 
 Experimental proposal of enabling JIT on C++ compiler - targetted for linux and clang compiler.
 
-3. [C++ chai script](http://chaiscript.com/) [BSD] - small simplified C++ parser, which is not directly C++, but some sort of it's modification (Chai script), which is capable of evaluating and executing C++-like script. Not fully C++ compliant, but also can live in portable / separate chai script box.
+* [C++ chai script](http://chaiscript.com/) [BSD] - small simplified C++ parser, which is not directly C++, but some sort of it's modification (Chai script), which is capable of evaluating and executing C++-like script. Not fully C++ compliant, but also can live in portable / separate chai script box.
+
+* [Runtime Compiled C++](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) Focuses on compiling C++ in a script manner. Does not have good project scripting language (cmake, python, etc...), but it's own C++ defines. Combines configuration and build tool in one.
 
