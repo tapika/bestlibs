@@ -5,9 +5,9 @@ weaknesses and side effects. I've decided to collect here some of libraries.
 
 If you know some good library, article, youtube video, feel free to send me mail to tapika-at-yahoo-dot-com with your collection of links, I'll try to analyze and add them into my own list. I will not necessarily add your links without deeper analysis of library/article.
 
-## Programming Languages
+## Languages
 
-  * [C++](https://github.com/tapika/bestlibs/tree/main/cpp)
+  * [Programming Language: C++](https://github.com/tapika/bestlibs/tree/main/cpp)
 
 ## Game Engines
 
