@@ -13,7 +13,7 @@ If you know some good library, article, youtube video, feel free to send me mail
 
 *Libraries dealing with game development*
 
-(What are the best game engines?)[https://github.com/tapika/stacktrace/blob/develop/example/csharp_crashy_window.xaml.cs#L51] Brief comparison of game engines.
+[What are the best game engines?](https://www.slant.co/topics/991/~best-game-engines) Brief comparison of game engines.
 
 * Godot Engine (C++)
   * [Godot git](https://github.com/godotengine/godot), [Main web page](https://godotengine.org/) [MIT]
