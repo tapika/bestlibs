@@ -34,3 +34,7 @@ But natural language improvement still does not mean that it can be easily parse
 
 Program languages evolve by themselves - for example there exists programming language standards like C++11 (2011), C++13 (2013)... C++20 (2020), where
 natural languages does not evolve or changes much.
+
+The main direction of natural language parsing is however clear - best outcome percentage match for fastest parsing time. Programming languages also evolve in performance direction (faster to compile, faster to link, faster to test and so on). Common goal is performance, but libraries used for programming languages and for natural languages are different - for example [TurkuNLP](https://github.com/TurkuNLP/Turku-neural-parser-pipeline) for example uses [TensorFlow library](https://github.com/tensorflow/tensorflow) to improve parsing performance.
+
+
