@@ -8,6 +8,7 @@ If you know some good library, article, youtube video, feel free to send me mail
 ## Languages
 
   * [Programming Language: C++](https://github.com/tapika/bestlibs/tree/main/cpp)
+  * [Natural languges](https://github.com/tapika/bestlibs/tree/main/naturallanguage)
 
 ## Game Engines
 
