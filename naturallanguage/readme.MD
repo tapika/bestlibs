@@ -5,7 +5,7 @@ to parse and analyze by computer applications. There exists enourmous amount of 
 
 Here are some articles related to that one for example:
 
-* [In Russian: Изучаем синтаксические парсеры для русского языка](https://m.habr.com/ru/company/sberbank/blog/418701/)
+* [In Russian: Изучаем синтаксические парсеры для русского языка](https://m.habr.com/ru/company/sberbank/blog/418701/), 2018.
 
 Language itself can be collected into it's own database of words, lingistic rules related to language itself.
 
