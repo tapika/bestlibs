@@ -32,5 +32,5 @@ Natural languages can be simplified in natural way, by minimizing used vocabular
 
 But natural language improvement still does not mean that it can be easily parsed as a program by computer application.
 
-Program languages itself evolute quite heavily for example there exists programming language standards like C++11 (2011), C++13... C++20 (2020), where
-natural languages does not evolve or change much.
+Program languages evolve by themselves - for example there exists programming language standards like C++11 (2011), C++13 (2013)... C++20 (2020), where
+natural languages does not evolve or changes much.
