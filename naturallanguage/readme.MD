@@ -24,7 +24,7 @@ application can understand and speak natural language - there will come problem 
 
 This can be sometimes observed in politics, which often refer to conversation, which goes nowhere, or does not produce any useful result.
 
-But also transitioning or teaching (8 billion people)[https://www.worldometers.info/world-population/] new artifically created language also sounds like mission impossible.
+But also transitioning or teaching [8 billion people](https://www.worldometers.info/world-population/) new artifically created language also sounds like mission impossible.
 
 Natural languages can be simplified in natural way, by minimizing used vocabulary and lingustic rules. Such behavior can be observed for example in Poki Pona:
 
