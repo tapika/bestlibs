@@ -37,4 +37,24 @@ natural languages does not evolve or changes much.
 
 The main direction of natural language parsing is however clear - best outcome percentage match for fastest parsing time. Programming languages also evolve in performance direction (faster to compile, faster to link, faster to test and so on). Common goal is performance, but libraries used for programming languages and for natural languages are different - for example [TurkuNLP](https://github.com/TurkuNLP/Turku-neural-parser-pipeline) for example uses [TensorFlow library](https://github.com/tensorflow/tensorflow) to improve parsing performance.
 
+If we however compare programming and natural languages:
 
+Programming language, pseudo C#:
+
+```
+foreach( var part in car.Parts )
+{
+    part.color = Colors.Yellow;
+}
+```
+
+English natural language:
+
+```
+Let's paint all car parts to yellow.
+```
+
+For programming languages there is some semantic sugar (`'{'`, `'}'`), which in a turn cannot be easily expressed in natural language ("Foreach open bracket part dot color will be yellow close bracket"). Programming language allows clear modelling, where `class Car` would have a property `Color`, whereas natural language lacks of proper structurization, but also allows to more freedom on what you can express via natural language. Express more also means more ambiguity. Which form is shorter and what you can model by each language category is questionable and depends on context.
+
+It's obvious that modelling is programming language richness, but it might also lead to overabstraction - creating difficult to use model.
+Same problem might persist also for natural language itself - for example law texts is known to be difficult to comprehend.
