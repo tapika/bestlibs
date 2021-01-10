@@ -13,6 +13,9 @@ a standard because it's built-in into Visual studio and Qt. cmake dialect is bit
 
 2. [SCons project generation tool (Used within Godot game engine)](https://docs.godotengine.org/en/stable/development/compiling/introduction_to_the_buildsystem.html) Another project generation tool, written in Python. Advances over other project generation tools are mentioned on Godot web page.
 
+[Behind (and under) the scenes of the Meson build system" - Jussi Pakkanen (LCA 2020)](https://youtu.be/iLN6wL7ExHU?t=923) Intresting idea behind using build system, which is written on different language than original language - applicable almost to everything, like C++-cmake, C++-python/meson, and so on...
+
+
 ## Make C++ Scriptable
 
 *There are various attempts to make C++ scriptable*
