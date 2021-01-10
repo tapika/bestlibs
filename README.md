@@ -10,6 +10,13 @@ If you know some good library, article, youtube video, feel free to send me mail
   * [Programming Language: C++](https://github.com/tapika/bestlibs/tree/main/cpp)
   * [Natural languages](https://github.com/tapika/bestlibs/tree/main/naturallanguage)
 
+## Comparison web sites
+
+*Various web sites which compare libraries, tools, frameworks with each other*
+
+  * [AlternativeTo](https://alternativeto.net/) Web site, which can compare applications, tools, technologies to each other.
+  * [Libraries.io](https://libraries.io/) Web site, which can compare different libraries to each other.
+
 ## Game Engines
 
 *Libraries dealing with game development*
