@@ -44,5 +44,5 @@ Experimental proposal of enabling JIT on C++ compiler - targetted for linux and 
 1. Recompile same C++ code to different platform, using same or different compiler. Typically OS specific defines are enable or disable OS specific functionality. `_WIN32` for Windows and so on. Depends on how many platforms you want to support - you need to produce same amount of binary compilations, for in worst case scenario it's over 5 - for example Windows, Linux, Mac, Android. It's also possible to support game consoles, like PlayStation, XBox, but those are normally protected by SDK costs.
 
 2. Compile same binary once and for on each platform. (Similar approach to C#)
-At the moment rather difficult to achive if not impossible. Main problem is that each platform on it's own might have different base libraries. STL might not be completely ported, not all methods supported.
+At the moment rather difficult to achive if not impossible. Main problem is that each platform on it's own might have different base libraries. STL might not be completely ported, not all methods supported. At the moment C++ compiler also produces CPU specific code, not IL code like in C# case, so code cannot run directly on another processor.
 
