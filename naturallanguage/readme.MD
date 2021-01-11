@@ -26,9 +26,7 @@ This can be sometimes observed in politics, which often refer to conversation, w
 
 Changing natural language and teaching [8 billion people](https://www.worldometers.info/world-population/) new artifically created language also sounds like mission impossible.
 
-Natural languages can be simplified in natural way, by minimizing used vocabulary and lingustic rules. Such behavior can be observed for example in Poki Pona:
-
-* [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
+Natural languages can be simplified in natural way, by minimizing used vocabulary and lingustic rules. Such behavior can be observed for example in [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona).
 
 But natural language improvement still does not mean that it can be easily parsed as a program by computer application.
 
