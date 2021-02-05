@@ -44,6 +44,7 @@ Json originated from JavaScript Object Notation, which came originally from Java
 ## Logging
 
 * [In Russian: C++, Сравнение библиотек логирования, 2016](https://habr.com/ru/post/313686/)
+* [.Net Logging Performance Comparison, .NET logging libraries, 2019](https://medium.com/@imanushin/net-logging-performance-comparison-20c83aa84333)
 * [C#, Benchmarking 5 popular .NET logging libraries, 2016](https://www.loggly.com/blog/benchmarking-5-popular-net-logging-libraries/)
 
 ## Testing
