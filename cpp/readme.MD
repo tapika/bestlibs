@@ -11,6 +11,8 @@ Here are listed various C++ improvements ideas / concepts / C++ standartization 
 1. [cmake web page](https://cmake.org/). Custom cmake dialect, which was originally made to help C++ to simplify project generation - but nowadays is more or less 
 a standard because it's built-in into Visual studio and Qt. cmake dialect is bit difficult to learn and maintain.
 
+Mixing C++ and C# is known to have open issues, like [.Net SDK Style Project](https://gitlab.kitware.com/cmake/cmake/-/issues/20227#).
+
 2. [SCons project generation tool (Used within Godot game engine)](https://docs.godotengine.org/en/stable/development/compiling/introduction_to_the_buildsystem.html) Another project generation tool, written in Python. Advances over other project generation tools are mentioned on Godot web page.
 
 [Behind (and under) the scenes of the Meson build system" - Jussi Pakkanen (LCA 2020)](https://youtu.be/iLN6wL7ExHU?t=923) Intresting idea behind using build system, which is written on different language than original language - applicable almost to everything, like C++-cmake, C++-python/meson, and so on...
