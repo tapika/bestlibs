@@ -47,6 +47,8 @@ Json originated from JavaScript Object Notation, which came originally from Java
 * [.Net Logging Performance Comparison, .NET logging libraries, 2019](https://medium.com/@imanushin/net-logging-performance-comparison-20c83aa84333)
 * [C#, Benchmarking 5 popular .NET logging libraries, 2016](https://www.loggly.com/blog/benchmarking-5-popular-net-logging-libraries/)
 
+Most obvious choice for C# logging is [NLog](https://nlog-project.org/), for C++ - `[spdlog](https://github.com/gabime/spdlog)`.
+
 ## Testing
 
 *Libraries dealing with testing*
