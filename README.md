@@ -62,7 +62,7 @@ Most obvious choice for C# logging is [NLog](https://nlog-project.org/), for C++
 *Libraries dealing with package building and installation*
 
   1. [Chocolatey, C#](https://github.com/chocolatey/choco) [MIT] - Based on nuget client/server architecture chocolatey deals with software installation, upgrade, uninstallation
-  2. [Microsoft MSIX packaging, C++](https://github.com/microsoft/msix-packaging) [MIT] - Package management primarily targetted for Windows.
+  2. [Microsoft MSIX packaging, C++](https://github.com/microsoft/msix-packaging) [MIT] - Package management primarily targetted for Windows. Cannot recommend to use that one - MSIX has several problems, lack of documentation, bugs.
 
 ## 3rd Party Library Building
 
