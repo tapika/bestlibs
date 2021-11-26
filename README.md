@@ -51,13 +51,14 @@ Most obvious choice for C# logging is [NLog](https://nlog-project.org/), for C++
 
 ## Building
 
-[Cake build system](https://cakebuild.net/) - build engine written in C#, dealing with software building, integration and releasing. Open source code with multiple extensions for Cake.
+[Cake build system](https://cakebuild.net/) - build engine written in C#, dealing with software building, integration and releasing. Open source code with multiple extensions for Cake. Recommended way to use it - is via [nuget package](https://blog.infernored.com/cake-frosting-even-better-c-devops/) (intellisense and debugging is supported out of box).
 
 ## Testing
 
 *Libraries dealing with testing*
 
   1. [xunit, C#](https://xunit.net) [MIT] - Targetting for C# unit testing. Unlike built-in Visual studio platform support `[Theory]` kind of attribute, which
+
     allows to specify custom input arguments to each test. Test host application is executed in same process, unlike Visual studio platform.
 
 
