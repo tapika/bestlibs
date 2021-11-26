@@ -49,12 +49,16 @@ Json originated from JavaScript Object Notation, which came originally from Java
 
 Most obvious choice for C# logging is [NLog](https://nlog-project.org/), for C++ - [spdlog](https://github.com/gabime/spdlog).
 
+## Building
+
+[Cake build system](https://cakebuild.net/) - build engine written in C#, dealing with software building, integration and releasing. Open source code with multiple extensions for Cake.
+
 ## Testing
 
 *Libraries dealing with testing*
 
   1. [xunit, C#](https://xunit.net) [MIT] - Targetting for C# unit testing. Unlike built-in Visual studio platform support `[Theory]` kind of attribute, which
-  allows to specify custom input arguments to each test. Test host application is executed in same process, unlike Visual studio platform.
+    allows to specify custom input arguments to each test. Test host application is executed in same process, unlike Visual studio platform.
 
 
 ## Installation
@@ -71,7 +75,11 @@ Most obvious choice for C# logging is [NLog](https://nlog-project.org/), for C++
 * [Microsoft vcpkg, C++/cmake](https://github.com/microsoft/vcpkg) [MIT] tool for building various 3rd party packages for Windows. Even thus tool focuses on building 3rd party libraries, patches for 3rd-party libraries are located within vcpkg repository. vcpkg is not targetting to become industry standard installation system, which leaves it on build tool level, like msbuild or similar.
 * [ninja, C++](https://github.com/ninja-build/ninja) [Apache] Ninja focuses on building, mainly C++ components. Already built-in in Visual studio and moreover make project generation systems (e.g. cmake) produce ninja file format as output file. Much faster compared to msbuild. Does not needs to be used directly by developers, normally build system (e.g. make, cmake, visual studio based uses ninja for their own purpose)
 
-# Various link collections:
+## Tools
+
+[Typora markdown file editor](https://community.chocolatey.org/packages/typora) - .md file editor - can be used for example to edit this file on PC itself.
+
+## Various link collections:
 
 * [Awesome C++ - various C++ library link collection](https://github.com/fffaraz/awesome-cpp) (This git was initially inspired by Awesome C++ link collection)
 
